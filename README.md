@@ -1,3 +1,6 @@
+# 不要fork 这个项目，因为文件过大会有问题。只用这个：https://code.aliyun.com/414850132/docker_buildandroid
+
+
 ## 基于Docker的Android编译打包环境（非开发环境）
 
 #### 环境
